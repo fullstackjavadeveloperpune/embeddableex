@@ -1,0 +1,2 @@
+# embeddableex
+@Embeddable Annotation Example
